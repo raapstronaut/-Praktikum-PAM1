@@ -1,4 +1,4 @@
-# Tugas Praktikum Week 1
+# Tugas Praktikum 1
 
 ## Nama: Muhamad Rafi Ilham
 ## NIM : 123140173
